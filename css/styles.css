@@ -1,15 +1,11 @@
-h1 {
-  color: red;
-  font-family: fantasy;
-  font-size: 200px;
-}
-
 body {
   text-align: center;
-  font-style: normal;
-  font-weight: 200;
 }
 
-p {
-  line-height: 50px;
+h1 {
+  color: orange;
+}
+
+h2 {
+  color:grey
 }
